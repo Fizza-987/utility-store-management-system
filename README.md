@@ -1,1 +1,0 @@
-# utility-store-management-system
